@@ -11,4 +11,5 @@ Welcome to our talent showcase. Below you will find production-grade data analyt
 | **Financial Fraud Detection** | Python, Scikit-Learn | Built an anomaly detection pipeline with 96% precision. | [View Repo](#) |
 
 ## 🛠️ Our Training Tech Stack
-![Python](https://shields.io) ![SQL](https://shields.io) ![Power Bi](https://shields.io) ![Tableau](https://shields.io)
+![Python](https://shields.io) ![SQL](https://shields.io) ![Power Bi](https://shields.io)
+
