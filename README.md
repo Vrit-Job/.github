@@ -11,8 +11,4 @@ Welcome to our talent showcase. Below you will find production-grade data analyt
 | **Financial Fraud Detection** | Python, Scikit-Learn | Built an anomaly detection pipeline with 96% precision. | [View Repo](#) |
 
 ## 🛠️ Our Training Tech Stack
-<img src="https://jsdelivr.net" width="40" height="40" alt="Python" />
-<img src="https://jsdelivr.net" width="40" height="40" alt="SQL" />
-<img src="https://iconify.design" width="40" height="40" alt="Power BI" />
-
 
