@@ -14,3 +14,4 @@ Welcome to our talent showcase. Below you will find production-grade data analyt
 * 🐍 **Python**
 * 🗄️ **SQL**
 * 📊 **Power BI**
+* 📈 **Excel**
